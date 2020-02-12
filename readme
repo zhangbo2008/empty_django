@@ -1,0 +1,5 @@
+python manage.py 127.0.0.1:8080
+
+
+浏览器: http://127.0.0.1:8080/word2vecService/  即可.
+然后相关业务代码写在apps/word2vec/views.py 即可.
