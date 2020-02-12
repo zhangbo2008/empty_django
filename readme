@@ -1,4 +1,4 @@
-python manage.py 127.0.0.1:8080
+python manage.py  runserver 127.0.0.1:8080
 
 
 浏览器: http://127.0.0.1:8080/word2vecService/  即可.
